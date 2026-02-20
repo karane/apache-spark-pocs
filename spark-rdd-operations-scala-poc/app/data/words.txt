@@ -1,0 +1,10 @@
+hello world hello spark
+apache spark is fast
+spark rdd operations are powerful
+hello from the spark world
+java and spark work well together
+rdd transformations and actions
+map filter reduce flatmap
+spark is a distributed computing framework
+hello spark hello world
+data processing with spark rdd

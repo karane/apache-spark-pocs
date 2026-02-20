@@ -1,0 +1,17 @@
+# sbt build outputs
+app/target/
+app/project/target/
+app/project/project/
+
+# sbt cache / metadata
+.sbt/
+.bsp/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
