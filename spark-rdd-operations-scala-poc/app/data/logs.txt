@@ -1,0 +1,20 @@
+2024-01-15 08:23:45 INFO  UserService - User login successful: user_id=101
+2024-01-15 08:24:01 ERROR PaymentService - Payment failed: order_id=5001, reason=insufficient_funds
+2024-01-15 08:25:12 WARN  InventoryService - Low stock alert: product_id=302, remaining=3
+2024-01-15 08:26:33 INFO  UserService - User login successful: user_id=205
+2024-01-15 08:27:44 INFO  OrderService - Order placed: order_id=5002, user_id=101, total=149.99
+2024-01-15 08:28:55 ERROR PaymentService - Payment timeout: order_id=5003
+2024-01-15 08:30:01 INFO  UserService - User logout: user_id=101
+2024-01-15 08:31:22 WARN  AuthService - Failed login attempt: user_id=999, ip=192.168.1.50
+2024-01-15 08:32:10 INFO  OrderService - Order shipped: order_id=5001
+2024-01-15 08:33:45 ERROR InventoryService - Stock update failed: product_id=150
+2024-01-15 08:34:56 INFO  UserService - User registered: user_id=310
+2024-01-15 08:35:22 WARN  AuthService - Failed login attempt: user_id=999, ip=192.168.1.50
+2024-01-15 08:36:01 INFO  OrderService - Order placed: order_id=5004, user_id=205, total=299.99
+2024-01-15 08:37:15 ERROR PaymentService - Payment failed: order_id=5005, reason=card_expired
+2024-01-15 08:38:30 INFO  UserService - User login successful: user_id=310
+2024-01-15 08:39:45 WARN  InventoryService - Low stock alert: product_id=88, remaining=1
+2024-01-15 08:40:00 INFO  OrderService - Order cancelled: order_id=5003, user_id=150
+2024-01-15 08:41:12 ERROR AuthService - Account locked: user_id=999, reason=too_many_attempts
+2024-01-15 08:42:33 INFO  UserService - User login successful: user_id=205
+2024-01-15 08:43:44 INFO  OrderService - Order placed: order_id=5006, user_id=310, total=89.99
