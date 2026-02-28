@@ -1,0 +1,21 @@
+user_id,product,category,amount
+1,Laptop,Electronics,999.99
+2,Headphones,Electronics,149.99
+3,Coffee Maker,Kitchen,79.99
+1,Mouse,Electronics,29.99
+4,Blender,Kitchen,49.99
+2,Keyboard,Electronics,89.99
+3,Toaster,Kitchen,34.99
+5,Monitor,Electronics,349.99
+1,Webcam,Electronics,69.99
+4,Knife Set,Kitchen,59.99
+2,Laptop,Electronics,1099.99
+5,Microwave,Kitchen,129.99
+3,Tablet,Electronics,499.99
+1,Coffee Maker,Kitchen,89.99
+4,Headphones,Electronics,199.99
+5,Desk Lamp,Furniture,45.99
+2,Office Chair,Furniture,299.99
+3,Bookshelf,Furniture,159.99
+1,Standing Desk,Furniture,549.99
+4,Monitor,Electronics,279.99
